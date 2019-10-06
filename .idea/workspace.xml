@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="306" column="73" selection-start-line="306" selection-start-column="73" selection-end-line="306" selection-end-column="73" />
+            <state relative-caret-position="255">
+              <caret line="312" column="67" selection-start-line="312" selection-start-column="67" selection-end-line="312" selection-end-column="67" />
               <folding>
                 <element signature="e#9649#9655#0" expanded="true" />
               </folding>
@@ -120,7 +120,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570378610175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570378698788" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570362364281</updated>
-      <workItem from="1570362368238" duration="10736000" />
+      <workItem from="1570362368238" duration="10824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10736000" />
+    <option name="totallyTimeSpent" value="10824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-181" width="1936" height="1056" extended-state="6" />
@@ -261,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="306" column="73" selection-start-line="306" selection-start-column="73" selection-end-line="306" selection-end-column="73" />
+        <state relative-caret-position="255">
+          <caret line="312" column="67" selection-start-line="312" selection-start-column="67" selection-end-line="312" selection-end-column="67" />
           <folding>
             <element signature="e#9649#9655#0" expanded="true" />
           </folding>
