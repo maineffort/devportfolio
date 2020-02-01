@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0108f7c-3ea4-4853-a1e7-bbc47cf5f0d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/cavas_chatops.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slingshot_overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slingshot_overview_02.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570382947991" />
@@ -113,6 +111,26 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="184" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580585909127" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1580592321852">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580592321852" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1580592321851">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.center/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580592321851" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1580592321851">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.left/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580592321851" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1580592321851">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.right/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580592321851" />
+    <state x="386" y="190" width="667" height="486" key="find.popup" timestamp="1580592038127">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="386" y="190" width="667" height="486" key="find.popup/1440.-226.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1580592038127" />
   </component>
   <component name="masterDetails">
     <states>
